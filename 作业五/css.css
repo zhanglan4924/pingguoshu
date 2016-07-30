@@ -1,0 +1,149 @@
+body, p, img, dl, dt, dd, ul, ol, h1, h2, h3, h4, h5, h6 { margin: 0; padding: 0; }
+body { position: relative; font: 12px/1.2em Simsun, Arial; text-align: left; min-width: 990px; }
+ul, ol { list-style: none; }
+img { border: 0 none; }
+input, select { vertical-align: middle; }
+table { border-collapse: collapse; }
+s, em, i { font-style: normal; text-decoration: none; }
+.cf { *zoom: 1; }
+.cf:after { clear: both; content: "."; display: block; height: 0; overflow: hidden; visibility: hidden; zoom: 1; }
+
+
+.bg{
+    background: url(images/bg.png) no-repeat top center;
+    height: 720px;
+
+}
+.w{
+    width: 990px;
+    margin:0 auto;
+    position: relative;
+}
+.appletree{
+    width:406px;
+    height: 255px;
+    position: absolute;
+    top:260px;
+    left: 40px;
+}
+.appletree .apple1{
+    position: absolute;
+    top: -6px;
+    left: 155px;
+}
+.appletree .apple2{
+    position: absolute;
+    top: 38px;
+    left: 74px;
+}
+.appletree .apple3{
+    position: absolute;
+    top: 105px;
+    left: 0px;
+}
+
+.appletree .apple4{
+    position: absolute;
+    top: 115px;
+    left: 79px;
+}
+.appletree .apple5{
+    position: absolute;
+    top: 186px;
+    left: 34px;
+}
+.appletree .apple6{
+    position: absolute;
+    bottom: -3px;
+    left: 161px;
+}
+.appletree .apple7{
+     position: absolute;
+     top: 28px;
+     left: 243px;
+ }
+.appletree .apple8{
+      position: absolute;
+      top: 61px;
+      left: 337px;
+}
+.appletree .apple9{
+    position: absolute;
+    top: 121px;
+    left: 288px;
+}
+.appletree .apple10{
+    position: absolute;
+    top: 151px;
+    right: -7px;
+}
+.appletree .apple11{
+    position: absolute;
+    top: 214px;
+    left: 294px;
+}
+.appletree .apple12{
+    border-radius: 20px;
+    position: absolute;
+    top: 68px;
+    left: 114px;
+}
+.booklist{
+    width: 501px;
+    height: 295px;
+    position: absolute;
+    top: 237px;
+    left: 460px;
+}
+.booklist .huanyipi{
+    position: absolute;
+    top: 45px;
+    right: 6px;
+}
+
+.booklist .booklist1 img{
+    display:inline-block;
+    *display:inline;
+    *zoom:1;
+    margin-left: 35px;
+    margin-top: 10px;
+}
+.toupiao{
+    width: 566px;
+    height: 166px;
+    position: absolute;
+    top: 552px;
+    left: 395px;
+    overflow: hidden;
+}
+.toupiao strong{
+    display: block;
+    background: url(images/lvse.png) no-repeat;
+    width: 71px;
+    height: 24px;
+    text-align: center;
+    line-height: 24px;
+    font-size: 16px;
+    color: #f8ffa5;
+}
+
+.toupiao p{
+    font-weight: bold;
+    color: #84ccbf;
+    line-height: 24px;
+    letter-spacing: 1.2px;
+}
+.toupiao span{
+    color: #fe233f;
+}
+.toupiao ul li{
+    float: left;
+    margin-right: 40px;
+    text-align: center;
+}
+.toupiao ul{
+    margin-top: 5px;
+    width: 600px;
+
+}
+
